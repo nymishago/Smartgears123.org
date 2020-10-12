@@ -1,3 +1,3 @@
 # nymishago.github.io
 Project Website
-contains website details for smartgers fll 
+contains website details for smartgers FLL
